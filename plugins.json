@@ -1,0 +1,207 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/N0tvich/BetaSpanish",
+        "fileSize": 17130,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Stormunblessed,n0tvich"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeflvIOProv",
+        "url": "https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/AnimeflvIOProv.cs3",
+        "name": "AnimeflvIOProv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/N0tvich/BetaSpanish",
+        "fileSize": 16914,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Stormunblessed,n0tvich"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeflvProv",
+        "url": "https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/AnimeflvProv.cs3",
+        "name": "AnimeflvProv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/N0tvich/BetaSpanish",
+        "fileSize": 17624,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "n0tvich"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "CuevanaProv",
+        "url": "https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/CuevanaProv.cs3",
+        "name": "CuevanaProv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasflix.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/N0tvich/BetaSpanish",
+        "fileSize": 31446,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Stormunblessed,n0tvich"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "DoramasFlixProv",
+        "url": "https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/DoramasFlixProv.cs3",
+        "name": "DoramasFlixProv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasyt.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/N0tvich/BetaSpanish",
+        "fileSize": 13014,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Stormunblessed,n0tvich"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "DoramasTYprov",
+        "url": "https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/DoramasTYprov.cs3",
+        "name": "DoramasTYprov"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/N0tvich/BetaSpanish",
+        "fileSize": 2503,
+        "status": 1,
+        "authors": [
+            "Cloudburst"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "ExampleProvider",
+        "description": "Lorem Ipsum",
+        "url": "https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/ExampleProvider.cs3",
+        "name": "ExampleProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/N0tvich/BetaSpanish",
+        "fileSize": 22957,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Stormunblessed,n0tvich"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "JKAnimeProv",
+        "url": "https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/JKAnimeProv.cs3",
+        "name": "JKAnimeProv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=monoschinos2.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/N0tvich/BetaSpanish",
+        "fileSize": 12805,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Stormunblessed,n0tvich"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "MonoschinosProv",
+        "url": "https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/MonoschinosProv.cs3",
+        "name": "MonoschinosProv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=mundodonghua.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/N0tvich/BetaSpanish",
+        "fileSize": 18959,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Stormunblessed,n0tvich"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "MundoDonghuaProv",
+        "url": "https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/MundoDonghuaProv.cs3",
+        "name": "MundoDonghuaProv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.ph&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/N0tvich/BetaSpanish",
+        "fileSize": 15714,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Stormunblessed,n0tvich"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PelisplusSOProv",
+        "url": "https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/PelisplusSOProv.cs3",
+        "name": "PelisplusSOProv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tioanime.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/N0tvich/BetaSpanish",
+        "fileSize": 16026,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Stormunblessed,n0tvich"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "TioAnimeProv",
+        "url": "https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/TioAnimeProv.cs3",
+        "name": "TioAnimeProv"
+    }
+]
