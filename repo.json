@@ -1,0 +1,8 @@
+{
+  "name": "<BetaSpanish>",
+  "description": "<spanish>",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "<https://raw.githubusercontent.com/N0tvich/BetaSpanish/builds/plugins.json>"
+  ]
+}
