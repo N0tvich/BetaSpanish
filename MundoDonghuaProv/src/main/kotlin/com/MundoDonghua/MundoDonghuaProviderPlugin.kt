@@ -1,14 +1,14 @@
-package com.n0tvich
+package com.notvich
 
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
 import com.lagradost.cloudstream3.plugins.Plugin
 import android.content.Context
-import com.lagradost.cloudstream3.animeproviders.AnimeflvIOProvider
+import com.stormunblessed.MundoDonghuaProvider
 
 @CloudstreamPlugin
-class AnimeflvIOProviderPlugin: Plugin() {
+class MundoDonghuaProviderPlugin: Plugin() {
     override fun load(context: Context) {
         // All providers should be added in this manner. Please don't edit the providers list directly.
-        registerMainAPI(AnimeflvIOProvider())
+        registerMainAPI(MundoDonghuaProvider())
     }
 }

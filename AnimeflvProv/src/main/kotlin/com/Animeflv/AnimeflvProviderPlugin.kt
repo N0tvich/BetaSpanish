@@ -1,8 +1,9 @@
-package com.stormunblessed
+package com.n0tvich
 
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
 import com.lagradost.cloudstream3.plugins.Plugin
 import android.content.Context
+import com.stormunblessed.AnimeflvnetProvider
 
 @CloudstreamPlugin
 class AnimeflvnetProviderPlugin: Plugin() {
