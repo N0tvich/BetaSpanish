@@ -25,7 +25,7 @@ class AnimeflvIOProvider:MainAPI() {
     override suspend fun getMainPage(page: Int, request : MainPageRequest): HomePageResponse {
         val items = ArrayList<HomePageList>()
         val urls = listOf(
-            Pair("$mainUrl/series", "Series actualizadas",),
+            Pair("$mainUrl/series", "Series actualizadas"),
             Pair("$mainUrl/peliculas", "Peliculas actualizadas"),
         )
         items.add(HomePageList("Estrenos", app.get(mainUrl).document.select("div#owl-demo-premiere-movies .pull-left").map{
@@ -183,7 +183,7 @@ class AnimeflvIOProvider:MainAPI() {
         subtitleCallback: (SubtitleFile) -> Unit,
         callback: (ExtractorLink) -> Unit
     ): Boolean {
-        app.get(data).document.select("li.tab-video").apmap {
+        app.get(data).document.select("li.tab-video").apmap { it ->
             val url = fixUrl(it.attr("data-video"))
             if (url.contains("animeid")) {
                 val ajaxurl = url.replace("streaming.php","ajax.php")
@@ -203,8 +203,8 @@ class AnimeflvIOProvider:MainAPI() {
                                     "Animeflv.io",
                                     it.url,
                                     "https://animeid.to",
-                                    getQualityFromName(it.quality.toString()),
-                                    it.url.contains("m3u8")
+                                    getQualityFromName(it.run { quality.toString() }),
+                                    it.run { url.contains("m3u8") }
                                 )
                             )
                         }
